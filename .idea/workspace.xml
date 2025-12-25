@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6abdade-b65b-4fa5-a6e7-1a85189c40cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/marketing_data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metrics/campaign_kpi_table.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metrics/ctr_by_month.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metrics/ctr_by_weekday.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metrics/daily_conversions_trend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metrics/monthly_performance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metrics/roas_by_month.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metrics/roas_distribution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/metrics/weekday_performance.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/create_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/demographic_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/load_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/time_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/visualizations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ab_test_results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/ab_test_results.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ad_spend.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/ad_spend.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/campaign_performance.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/campaign_performance.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/campaigns.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/campaigns.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversions.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/conversions.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customers_acquired.csv" beforeDir="false" afterPath="$PROJECT_DIR$/raw_data/customers_acquired.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/natijalar/ab_test_creative_type_metrics.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/natijalar/ab_test_variant_metrics.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/natijalar/campaign_metrics.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/natijalar/campaign_type_metrics.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/natijalar/channel_metrics.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/natijalar/marketing_data_clean/ab_test_results_clean.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/natijalar/marketing_data_clean/ad_spend_clean.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/natijalar/marketing_data_clean/campaign_performance_clean.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/natijalar/marketing_data_clean/campaigns_clean.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/natijalar/marketing_data_clean/conversions_clean.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/natijalar/marketing_data_clean/customers_acquired_clean.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/natijalar/marketing_data_clean/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/campaign_kpi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="35vUuz8ECParukUF6jRM0uObaQD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.CampaignKPIService.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fix_revenue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;&lt;unknown&gt;&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="CampaignKPIService" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="marketing_data" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts_pro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts_pro/CampaignKPIService.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fix_revenue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="marketing_data" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/fix_revenue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="marketing_data" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts_pro" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts_pro/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="marketing_data" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.CampaignKPIService" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.fix_revenue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6abdade-b65b-4fa5-a6e7-1a85189c40cc" name="Changes" comment="" />
+      <created>1763990268349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763990268349</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
