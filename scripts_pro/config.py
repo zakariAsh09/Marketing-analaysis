@@ -2,8 +2,12 @@
 import os
 
 # Loyihaning asosiy yo'li
+<<<<<<< HEAD
 BASE_PATH = r"D:\Diplom ishi Proweb\marketing_data"
 
+=======
+BASE_PATH = r"E:\FayzullohData\Diplom ishi Proweb\marketing_data"
+>>>>>>> 4bdfb799c9f213b11475a99148fe6b19ce5c80a6
 
 
 # Papkalar
